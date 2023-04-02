@@ -1,11 +1,5 @@
-| [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions NETGEAR-R7500v2 OpenWrt
-
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/vovo518/Openwrt-R7500v2-firmware/blob/main/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
-
 
 
 ## 配置文件
@@ -14,7 +8,7 @@ SSR
 
 ## Credits
 
-- [Microsoft Azure](https://azure.microsoft.com)                                   
+- [Microsoft Azure](https://azure.microsoft.com) 
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)                                    
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
@@ -29,4 +23,8 @@ SSR
 
 ## License
 
-[MIT](https://github.com/vovo518/Openwrt-R7500v2-firmware/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+[MIT](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE) © [**P3TERX** - *原作者中文教程*](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
