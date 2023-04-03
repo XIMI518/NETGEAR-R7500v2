@@ -25,5 +25,5 @@ echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 # echo '=========Add argon-mod OK!========='
 
 # 添加gn 临时方案
-cd package
-svn co https://github.com/kenzok8/small-package/trunk/gn
+# cd package
+# svn co https://github.com/kenzok8/small-package/trunk/gn
